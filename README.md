@@ -1,4 +1,4 @@
-Slack Invite Automation
+Ghidra Community Slack Invite Automation
 ------------
 
 [![Build Status](https://travis-ci.com/outsideris/slack-invite-automation.svg?branch=master)](https://travis-ci.com/outsideris/slack-invite-automation)
